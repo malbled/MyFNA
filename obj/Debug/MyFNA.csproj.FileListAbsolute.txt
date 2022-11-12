@@ -1,0 +1,12 @@
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\Pictures\snowflake.png
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\Pictures\winter_background.jpg
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\MyFNA.exe.config
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\MyFNA.exe
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\MyFNA.pdb
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\bin\Debug\FNA.dll
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.csproj.AssemblyReference.cache
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.csproj.SuggestedBindingRedirects.cache
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.csproj.CoreCompileInputs.cache
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.csproj.CopyComplete
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.exe
+C:\Users\leksa\Downloads\MyFNASnowFall-master (1)\MyFNASnowFall-master\obj\Debug\MyFNA.pdb
